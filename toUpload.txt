@@ -4,3 +4,14 @@ git init
 git add.
 git commit -m ""
 git branch -m
+
+02-05-2023
+Module 2:
+Handson for module 1
+MySql Server starting issue
+GIT
+Sonar Qube
+_____________________________________________________________________
+HTML (Hypertext Markup Language)
+-SGML (Standard Generalized Markup Language)
+-HTML is a simple versions of SGML
