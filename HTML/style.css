@@ -1,0 +1,44 @@
+
+<style>
+        body{
+            background-color: mintcream;
+        }
+        table,
+    th,
+    td {
+        border: 1px solid rgb(107, 11, 11);
+        text-align: center;
+        font-family: 'Times New Roman', Times, serif;
+    }
+    h1{
+        color: crimson;
+        text-align: center;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    h2{
+        
+        text-align: center;
+        font-family:'Times New Roman', Times, serif;
+        font-style: italic;
+    }
+    h3{
+        color: rgb(3, 67, 128);
+        text-align:center;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-family: monospace;
+        font-size: 30px;
+    }
+    p{
+        color: darkred;
+        text-align: center;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        
+    }
+    a{
+        color: darkred;
+        
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        
+    }
+    
+</style>
