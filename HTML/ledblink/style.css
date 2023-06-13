@@ -1,0 +1,17 @@
+#led
+{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin: 50px auto;
+    animation: blink is infinate;
+}
+@keyframes blink {
+    0%,100%{
+        background-color: crimson;
+    }
+    50%{
+        background-color: springgreen;
+    }
+    
+}
